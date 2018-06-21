@@ -1,6 +1,6 @@
 # NEWS HIGHLIGHTS
 
-An application that previews news articles from various sources.
+An application that previews news articles from  various sources.
 
 ## Getting Started
 
