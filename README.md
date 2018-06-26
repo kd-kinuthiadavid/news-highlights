@@ -4,7 +4,7 @@ An application that previews news articles from  various sources.
 
 ## Getting Started
 
-These instructions will get you  a copy of the project up  and running on your local machine for development and testing  purposes:
+These instructions will get you  a copy of the project up  and running on your local machine  for development and testing  purposes:
 
 ```
 open your terminal
@@ -18,7 +18,7 @@ git clone https://github.com/kd-kinuthiadavid/news-highlights.git
 cd news-highlights
 
 ```
-To activate virtual environment:
+To activate  virtual environment:
 
 ```
 $ sudo apt-get install python3.6-venv
