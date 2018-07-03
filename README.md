@@ -111,6 +111,10 @@ $ git push heroku master
 
 * **KINUTHIA DAVID**
 
+## Specifications
+
+The specifications for this project have been detailed as follows:- see the [SPECS.md](SPECS.md) file for details
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
